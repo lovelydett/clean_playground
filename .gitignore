@@ -1,0 +1,12 @@
+.o
+.out
+.a
+.so
+.exe
+.dll
+.lib
+
+*build*
+
+*.idea*
+*.vscode*
