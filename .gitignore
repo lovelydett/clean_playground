@@ -1,10 +1,10 @@
-.o
-.out
-.a
-.so
-.exe
-.dll
-.lib
+*.o
+*.out
+*.a
+*.so
+*.exe
+*.dll
+*.lib
 
 *build*
 
